@@ -3,7 +3,7 @@
 
 declare(strict_types=1);
 
-namespace LaithYT\SkyWars;
+namespace LaithYT;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\CommandSender;
