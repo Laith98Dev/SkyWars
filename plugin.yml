@@ -1,5 +1,5 @@
 name: SkyWars
-main: LaithYT\SkyWars\Main
+main: LaithYT\Main
 version: 3.0.1
 api: 3.0.0, 4.0.0
 load: POSTWORLD
