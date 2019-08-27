@@ -1,6 +1,5 @@
 <?php
 
-
 declare(strict_types=1);
 
 namespace LaithYT;
@@ -30,5 +29,8 @@ class Main extends PluginBase implements Listener {
       $this->getServer()->getLogger()->info(" Distribution is prohibited without permission of the owner ");
      
    }
+	
+	
+	
   
   
