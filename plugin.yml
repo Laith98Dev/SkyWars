@@ -1,7 +1,12 @@
 name: SkyWars
 main: LaithYT\Main
-version: 3.0.1
-api: 3.0.0, 4.0.0
+version: 1.1.0
+api: [3.0.0, 4.0.0]
 load: POSTWORLD
 author: LaithYT
 description: Mini Games SkyWars For Pocketmine
+
+Commands:
+  sw:
+  description: "SkyWars-Commands"
+  usage: "/sw"
