@@ -24,6 +24,8 @@ use pocketmine\network\mcpe\protocol\ModalFormResponsePacket;
 
 class Main extends PluginBase implements Listener {
 	
+	public $prefix = "§8[§bSkyWars§8]§7 ";
+	
 	 public function onEnable(){
 	 	 $this->getServer()->getLogger()->info(" SkyWars Enabled ");
       $this->getServer()->getLogger()->info(" Distribution is prohibited without permission of the owner ");
